@@ -3,7 +3,7 @@
 
 ## Project Objective
 
-The primary goal of this project is to clean, analyze, and visualize survey data provided by the Edmonds School District. Our objective is to uncover trends, patterns, and exceptions within the data that can provide actionable insights to our community partner. The final deliverables will include visualizations that are not only accurate and informative but also visually appealing, with clear titles, legends, and data source information. These findings will be presented to the class during the mid-quarter review and to the Community Partner as a final presentation.
+The primary goal of this project is to clean, analyze, and visualize survey data provided by the Edmonds School District. Our objective is to uncover trends, patterns, and exceptions within the data that can provide actionable insights to our community partner. The final deliverables will include visualizations that are not only accurate and informative but also visually appealing, with clear titles, legends, and data source information. These findings will be presented to the Edmonds school district to use for analyzing on what they can do better to improve there students education.
 Questions
 
 The data analysis focuses on the following key questions:
